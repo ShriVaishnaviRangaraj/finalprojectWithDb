@@ -1,0 +1,8 @@
+{
+    "require": {
+        "ext-gd": "*",
+        "phpoffice/phpspreadsheet": "^1.20",
+        "php-ds/php-ds": "^1.4",
+        "google/apiclient": "2.0"
+    }
+}
